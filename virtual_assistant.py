@@ -2,9 +2,8 @@
     Description:
     Create your own virtual assistant with python.
 
-    Author: AlejandroV
+    Author: AlejandroV/Virgilio Cantu
     Version: 1.0
-    Video: https://youtu.be/8WKjX0dbh4E
 '''
 import speech_recognition as sr
 import pyttsx3
@@ -15,7 +14,7 @@ import datetime
 import wikipedia
 
 # name of the virtual assistant
-name = 'cortana'
+name = 'flavia'
 
 # your api key
 key = 'YOUR_API_KEY_HERE'
